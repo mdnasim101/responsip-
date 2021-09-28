@@ -1,0 +1,128 @@
+@media (max-width:1300px){
+    .fixed-width {
+        width: 100%;       
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    .service-item {       
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+}
+
+@media (max-width:1000px){
+    .banner-content h1 {
+        font-size: 47px;
+       
+    }
+    .banner-content h2 {        
+        font-size: 18px;
+        margin-bottom: 53px;
+    }
+}
+
+@media (max-width:840px){
+    .service-item {
+        width: 45%;
+        padding: 57px 9px;       
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
+
+@media (max-width:758px){
+    .header-right ul li a {        
+        padding: 0 5px;        
+    }
+    .about-left {       
+        margin-top: 130px;
+    }
+}
+
+
+@media (max-width:600px){
+    .header-left {
+        float: inherit;
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        float: inherit;
+        width: 100%;
+        text-align: center;
+    }
+    .header-right ul {
+        text-align: center;
+    }
+    .header-right ul li a {        
+        padding: 0 8px;       
+        font-size: 15px;        
+    }
+    
+    .header-right ul li a {        
+        padding: 0 3px;        
+        font-size: 14px;        
+    }
+    .contact-section {
+        float: inherit;
+        width: 100%;
+        margin-bottom: 45px;
+    }
+    .about-left {
+        margin-top: 216px;
+    }
+}
+
+@media (max-width:530px){
+    .banner-content h1 {
+        font-size: 40px;      
+    }
+    .banner-content h2 {        
+        font-size: 19px;        
+    }
+
+    .about-left {
+        float: inherit;
+        width: 100%;        
+    }
+
+    .about-right {
+        float: inherit;
+        width: 100%;
+        /* text-align: center; */
+        margin-top: 40px;
+    }
+    .text-left {
+        text-align: center;
+    }
+}
+
+@media (max-width:521px){
+  
+    .header-right ul li a {
+        padding: 0 5px;
+        font-size: 14px;
+    }
+    .service-item {
+        width: 100%;
+        padding: 57px 50px;     
+        
+    }
+}
+
+@media (max-width:400px){
+    .banner {        
+        padding: 107px 0;        
+    }
+    .banner-content h1 {
+        font-size: 32px;
+    }
+    .banner-content h2 {
+        font-size: 17px;
+        margin-bottom: 44px;
+        margin-top: 20px;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+    }
+}
